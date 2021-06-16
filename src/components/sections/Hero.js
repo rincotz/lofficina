@@ -25,18 +25,6 @@ const Hero = ({
   ...props
 }) => {
 
-  const [videoModalActive, setVideomodalactive] = useState(false);
-
-  const openModal = (e) => {
-    e.preventDefault();
-    setVideomodalactive(true);
-  }
-
-  const closeModal = (e) => {
-    e.preventDefault();
-    setVideomodalactive(false);
-  }   
-
   const outerClasses = classNames(
     'hero section center-content',
     topOuterDivider && 'has-top-divider',
@@ -61,45 +49,29 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Landing template for <span className="text-color-primary">startups</span>
+              Lofficina
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+                Oficina mecânica especializada em automóveis importados
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
-                    </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                  <Button tag="a" color="dark" wideMobile href="https://www.google.com/maps/dir/?api=1&destination=lofficina&destination_place_id=ChIJ9QyP5LmKxZQRIc0bRQaIvAE&travelmode=driving">
+                    Como Chegar
                     </Button>
                 </ButtonGroup>
               </div>
             </div>
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-            <a
-              data-video="https://player.vimeo.com/video/174002812"
-              href="#0"
-              aria-controls="video-modal"
-              onClick={openModal}
-            >
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
-                alt="Hero"
-                width={896}
-                height={504} />
-            </a>
+            <Image
+              className="has-shadow"
+              src={'https://i.pinimg.com/originals/11/d2/c4/11d2c4152fe9d1b1df8a5fdd726566f5.jpg'}
+              alt="Hero"
+              width={896}
+              height={504} />
           </div>
-          <Modal
-            id="video-modal"
-            show={videoModalActive}
-            handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
-            videoTag="iframe" />
         </div>
       </div>
     </section>

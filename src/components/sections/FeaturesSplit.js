@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Serviços',
+    paragraph: 'Realizamos diagnóstico, manutenção e reparo de automóveis de todas as marcas com excelência e dentro dos prazos acordados.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Engenheiro Responsável
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Fábio Ramos da Silva
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Fábio é formado em engenharia mecânica pela Faculdade Armando Álvares Penteado (FAAP-SP) e tem mais de 25 anos de experiência com automóveis
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={'https://scontent-gru1-2.xx.fbcdn.net/v/t1.6435-9/174423365_10225883191372247_1802226106240997820_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=RM3YNPubYkUAX-hSVa1&_nc_ht=scontent-gru1-2.xx&oh=72b7b5ae1070a264a4f059728aca66b3&oe=60CE1AEE'}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Profissionais
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Equipe Lofficina
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Time de mecânicos especializados e treinados
                   </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={'https://previews.123rf.com/images/auremar/auremar2002/auremar200204636/141023460-male-and-female-mechanic-team-examine-car-engine.jpg'}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Estrutura
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Lofficina
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Completo acervo de equipamentos e ferramentas para atender com rapidez e segurança
                   </p>
               </div>
               <div className={
@@ -135,13 +135,12 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={'https://revistasalvador.com/wp-content/uploads/2019/01/car-Repair-Center.jpg'}
                   alt="Features split 03"
                   width={528}
                   height={396} />
               </div>
             </div>
-
           </div>
         </div>
       </div>

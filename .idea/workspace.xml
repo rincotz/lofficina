@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a3f446e-3139-4c4d-8054-d84215641503" name="Default Changelist" comment="" />
+    <list default="true" id="7a3f446e-3139-4c4d-8054-d84215641503" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/partials/FooterNav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/partials/FooterSocial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/partials/FooterSocial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/FeaturesSplit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/FeaturesSplit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/FeaturesTiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/FeaturesTiles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Testimonial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Testimonial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +68,7 @@
       <updated>1623684828048</updated>
       <workItem from="1623684896152" duration="1032000" />
       <workItem from="1623716140638" duration="18461000" />
-      <workItem from="1623808768008" duration="1961000" />
+      <workItem from="1623808768008" duration="6170000" />
     </task>
     <servers />
   </component>
