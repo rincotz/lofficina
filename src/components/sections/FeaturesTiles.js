@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Funcionamento',
-    paragraph: 'Segunda a Sexta das 08:00 as 18:00. Fone (15) 3211 8246.  Rua Itororó, 51 - Vila São João, Sorocaba/SP'
+    paragraph: 'Segunda a Sexta das 08:00 as 18:00. Fone (15) 3211 8246'
   };
 
   return (
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Tecnologia
                     </h4>
                   <p className="m-0 text-sm">
-                    Scanner digital para avaliação detalhada
+                    Scanner digital e aparelhos para avaliação detalhada
                     </p>
                 </div>
               </div>

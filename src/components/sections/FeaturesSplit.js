@@ -3,6 +3,9 @@ import classNames from 'classnames';
 import { SectionSplitProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
+import fotoEngenheiro from '../../assets/images/174423365_10225883191372247_1802226106240997820_n.jpg'
+import fotoSede from '../../assets/images/LoFoto12.jpeg'
+import fotoGalpao from '../../assets/images/LoFoto14.jpeg'
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -70,7 +73,7 @@ const FeaturesSplit = ({
                   Engenheiro Responsável
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Fábio Ramos da Silva
+                  Fábio Ramos Spínola
                   </h3>
                 <p className="m-0">
                   Fábio é formado em engenharia mecânica pela Faculdade Armando Álvares Penteado (FAAP-SP) e tem mais de 25 anos de experiência com automóveis
@@ -83,7 +86,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={'https://scontent-gru1-2.xx.fbcdn.net/v/t1.6435-9/174423365_10225883191372247_1802226106240997820_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=RM3YNPubYkUAX-hSVa1&_nc_ht=scontent-gru1-2.xx&oh=72b7b5ae1070a264a4f059728aca66b3&oe=60CE1AEE'}
+                  src={fotoEngenheiro}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,13 +96,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Profissionais
+                  Sede
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Equipe Lofficina
+                  Oficina
                   </h3>
                 <p className="m-0">
-                  Time de mecânicos especializados e treinados
+                  Galpão com 250m², capacidade para mais de 12 carros
                   </p>
               </div>
               <div className={
@@ -109,7 +112,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={'https://previews.123rf.com/images/auremar/auremar2002/auremar200204636/141023460-male-and-female-mechanic-team-examine-car-engine.jpg'}
+                  src={fotoSede}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -135,7 +138,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={'https://revistasalvador.com/wp-content/uploads/2019/01/car-Repair-Center.jpg'}
+                  src={fotoGalpao}
                   alt="Features split 03"
                   width={528}
                   height={396} />

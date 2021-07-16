@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a3f446e-3139-4c4d-8054-d84215641503" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/logo192.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/174423365_10225883191372247_1802226106240997820_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/LoFoto03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/LoFoto12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/LoFoto14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/whatsapp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/settings/base/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/settings/base/_colors.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/settings/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/settings/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/partials/FooterSocial.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/partials/FooterSocial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/partials/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/partials/Logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/FeaturesSplit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/FeaturesSplit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/FeaturesTiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/FeaturesTiles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Hero.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +53,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lfspi\Documents\Projects\lofficina\src\assets\images" />
+      <recent name="C:\Users\lfspi\Documents\Projects\lofficina\build" />
+      <recent name="C:\Users\lfspi\Documents\Projects\lofficina\public" />
       <recent name="C:\Users\lfspi\Documents\Projects\open-react-template\src\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lfspi\Documents\Projects\lofficina\src\assets\images" />
+      <recent name="C:\Users\lfspi\Documents\Projects\lofficina\public" />
       <recent name="C:\Users\lfspi\Documents\Projects\open-react-template\src\assets\images" />
     </key>
   </component>
@@ -61,7 +86,9 @@
       <workItem from="1623684896152" duration="1032000" />
       <workItem from="1623716140638" duration="18461000" />
       <workItem from="1623808768008" duration="8430000" />
-      <workItem from="1624288761709" duration="1091000" />
+      <workItem from="1624288761709" duration="3211000" />
+      <workItem from="1626440649194" duration="714000" />
+      <workItem from="1626453063847" duration="8241000" />
     </task>
     <servers />
   </component>
