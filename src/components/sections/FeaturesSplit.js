@@ -5,7 +5,7 @@ import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
 import fotoEngenheiro from '../../assets/images/174423365_10225883191372247_1802226106240997820_n.jpg'
 import fotoSede from '../../assets/images/LoFoto12.jpeg'
-import fotoGalpao from '../../assets/images/LoFoto14.jpeg'
+import fotoGalpao from '../../assets/images/LoFoto07.png'
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -102,7 +102,7 @@ const FeaturesSplit = ({
                   Oficina
                   </h3>
                 <p className="m-0">
-                  Galpão com 250m², capacidade para mais de 12 carros
+                  Capacidade para 22 carros
                   </p>
               </div>
               <div className={
