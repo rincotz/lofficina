@@ -7,7 +7,6 @@
     <list default="true" id="7a3f446e-3139-4c4d-8054-d84215641503" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/settings/base/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/settings/base/_colors.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sections/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Hero.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
       <workItem from="1624288761709" duration="3211000" />
       <workItem from="1626440649194" duration="714000" />
       <workItem from="1626453063847" duration="9465000" />
-      <workItem from="1627412211555" duration="4453000" />
+      <workItem from="1627412211555" duration="5042000" />
     </task>
     <servers />
   </component>

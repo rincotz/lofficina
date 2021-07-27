@@ -49,7 +49,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              L'officina Import Motor Service
+               <span className="text-color-primary">L'officina</span> Import Motor Service
             </h1>
             <div className="container-xs">
               <p className="m-0 reveal-from-bottom" data-reveal-delay="400">
@@ -66,7 +66,7 @@ const Hero = ({
                   <Button className='button button-primary' tag="a" color="dark" wideMobile href="https://api.whatsapp.com/send?phone=551532118246">
                     Contato
                   </Button>
-                  <Button className='button button-primary' tag="a" color="dark" wideMobile href="https://www.google.com/maps/dir/?api=1&destination=lofficina&destination_place_id=ChIJ9QyP5LmKxZQRIc0bRQaIvAE&travelmode=driving">
+                  <Button className='button button-dark' tag="a" color="dark" wideMobile href="https://www.google.com/maps/dir/?api=1&destination=lofficina&destination_place_id=ChIJ9QyP5LmKxZQRIc0bRQaIvAE&travelmode=driving">
                     Como Chegar
                     </Button>
                 </ButtonGroup>
