@@ -62,11 +62,11 @@ const Hero = ({
                 Vila São João, Sorocaba/SP
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
-                  <Button tag="a" color="dark" wideMobile href="https://api.whatsapp.com/send?phone=551532118246">
+                <ButtonGroup className='button-group'>
+                  <Button className='button button-primary' tag="a" color="dark" wideMobile href="https://api.whatsapp.com/send?phone=551532118246">
                     Contato
                   </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://www.google.com/maps/dir/?api=1&destination=lofficina&destination_place_id=ChIJ9QyP5LmKxZQRIc0bRQaIvAE&travelmode=driving">
+                  <Button className='button button-primary' tag="a" color="dark" wideMobile href="https://www.google.com/maps/dir/?api=1&destination=lofficina&destination_place_id=ChIJ9QyP5LmKxZQRIc0bRQaIvAE&travelmode=driving">
                     Como Chegar
                     </Button>
                 </ButtonGroup>
